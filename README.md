@@ -32,5 +32,4 @@ Inventory Managers: Count items quickly and efficiently.
 Fitness Enthusiasts: Track repetitions during workouts.
 Teachers and Students: Count down days to an event or keep track of classroom activities.
 
-author
-# Hussain Shamim 
+author <b>Muhammad Hussain Shamim</b>  
